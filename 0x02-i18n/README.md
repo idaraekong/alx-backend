@@ -1,5 +1,5 @@
 # 0x02. i18n
-
+#
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/91e1c50322b2428428f9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230523T210452Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d61154892688557593e1e1997bec73d4f2f51bd48f5e2c981890493de6d40009)
 
 Resources
