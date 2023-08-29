@@ -1,5 +1,5 @@
 # 0x03. Queuing System in JS
-
+#
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/1486e02a78cdf7b4557c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230620T191650Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c028742e9001559e8bb9bf3ddb72ab0ca4e8baecdaa42b70f9637110adf0be1d)
 
 Resources
